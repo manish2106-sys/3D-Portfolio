@@ -61,8 +61,8 @@ const achievements = [
     date: "May 2024",
     points: ["Responsive Web Design", "JavaScript"],
     credential: [
-      "https://freecodecamp.org/certification/Jayant-1/responsive-web-design",
-      "https://freecodecamp.org/certification/Jayant-1/responsive-web-design",
+      "https://freecodecamp.org/certification/Manish Anand-1/responsive-web-design",
+      "https://freecodecamp.org/certification/Manish Anand-1/responsive-web-design",
     ],
   },
   {
@@ -110,7 +110,7 @@ const achievements = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Jayant proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Manish Anand proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -118,7 +118,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Jayant does.",
+      "I've never met a web developer who truly cares about their clients' success like Manish Anand does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -126,7 +126,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Jayant boosted our website traffic by 50% through his smart optimization. We are Truly grateful!",
+      "Manish Anand boosted our website traffic by 50% through his smart optimization. We are Truly grateful!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -163,7 +163,7 @@ const projects = [
     ],
     image: astroPixel,
     images: [astroPixel], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/AstroPixel",
+    source_code_link: "https://github.com/Manish Anand-1/AstroPixel",
     live_demo_link: "https://astro-pixel.vercel.app/",
     metrics: {
       stars: 152,
@@ -203,7 +203,7 @@ const projects = [
     ],
     image: malariadetectionsystem,
     images: [malariadetectionsystem], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/MalariaDetectionSystem",
+    source_code_link: "https://github.com/Manish Anand-1/MalariaDetectionSystem",
     live_demo_link: "https://malaria-detection-system.vercel.app/",
     metrics: {
       stars: 89,
@@ -247,8 +247,8 @@ const projects = [
     ],
     image: portfolio,
     images: [portfolio], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/3D-Portfolio",
-    live_demo_link: "https://jayant-1.vercel.app/",
+    source_code_link: "https://github.com/Manish Anand-1/3D-Portfolio",
+    live_demo_link: "https://Manish Anand-1.vercel.app/",
     metrics: {
       stars: 234,
       forks: 67,
@@ -291,8 +291,8 @@ const projects = [
     ],
     image: novalearn,
     images: [novalearn], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/Nova-Learn",
-    live_demo_link: "https://nova-learn-jayant.vercel.app/",
+    source_code_link: "https://github.com/Manish Anand-1/Nova-Learn",
+    live_demo_link: "https://nova-learn-Manish Anand.vercel.app/",
     metrics: {
       stars: 127,
       forks: 35,
@@ -327,7 +327,7 @@ const projects = [
     ],
     image: ponggame,
     images: [ponggame], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/Multiplayer_Pong_Game",
+    source_code_link: "https://github.com/Manish Anand-1/Multiplayer_Pong_Game",
     live_demo_link: "https://multiplayer-pong-game-psi.vercel.app/",
     metrics: {
       stars: 76,
